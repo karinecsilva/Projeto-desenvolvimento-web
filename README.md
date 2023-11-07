@@ -1,5 +1,3 @@
-# Projeto-desenvolvimento-web
-Trabalho academico
 <h1 align="center">Loja Wyden</h1>
 
 Esse projeto foi desenvolvido pelo meu grupo, como avaliação final da matéria de Desenvolvimento WEB.
